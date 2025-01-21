@@ -32,8 +32,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Christian0504/Christian0504/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Christian0504/count.svg?"  />
+</div>
 
 ###
